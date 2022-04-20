@@ -7,4 +7,4 @@
 ![Covid_Trend](https://user-images.githubusercontent.com/83899750/164261864-07ec72bd-3a46-4e8e-9d64-0ae7fea003eb.JPG)
 
 # 3. [Profit Summary](https://public.tableau.com/views/Dashboard_assign1/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
-![Profit_Summary](https://user-images.githubusercontent.com/83899750/164265421-b9903f81-76dc-4b85-8b83-7b594464e504.JPG)
+![Profit_Summary](https://user-images.githubusercontent.com/83899750/164280889-1646c50a-bd56-4704-a04f-5033e541ba21.JPG)
